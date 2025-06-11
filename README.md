@@ -9,7 +9,7 @@
 
 🥇 **Vencedor do Addon Titans 2021**  
 Ganhei **U$ 2.500,00** no concurso internacional da [Stremio](https://blog.stremio.com/addon-titans-winners/) com o  
-[**TMDB Addon**](https://github.com/mrcanelas/stremio-tmdb-addon), um addon multilíngue que fornece metadados localizados via API do TMDB.
+[**TMDB Addon**](https://github.com/mrcanelas/tmdb-addon), um addon multilíngue que fornece metadados localizados via API do TMDB.
 
 ---
 
